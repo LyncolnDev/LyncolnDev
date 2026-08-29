@@ -68,8 +68,6 @@ Python • FastAPI • PostgreSQL
 </pre>
 
 📊 GITHUB STATS
-
-📊 GITHUB STATS
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=LyncolnDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071a0d&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyncolnDev&layout=compact&langs_count=8&hide_border=true&bg_color=071a0d&title_color=00FF88&text_color=FFFFFF">
 
 <br><br>
