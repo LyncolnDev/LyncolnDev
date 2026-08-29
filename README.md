@@ -67,6 +67,24 @@ Python • FastAPI • PostgreSQL
    ONLINE ✓
 </pre>
 
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/LyncolnDev">
+<img src="https://img.shields.io/badge/GitHub-LyncolnDev-071a0d?style=for-the-badge&logo=github&logoColor=00FF88">
+</a>
+
+<a href="mailto:contatolyncolndev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-071a0d?style=for-the-badge&logo=gmail&logoColor=00FF88">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-071a0d?style=for-the-badge&logo=linkedin&logoColor=00FF88">
+</a>
+
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:071a0d,50:0b4d2b,100:00ff88" width="100%">
