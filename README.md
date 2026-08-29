@@ -79,7 +79,7 @@ Python • FastAPI • PostgreSQL
 <img src="https://img.shields.io/badge/Email-Contact-071a0d?style=for-the-badge&logo=gmail&logoColor=00FF88">
 </a>
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">
+<a href="www.linkedin.com/in/lyncoln-dos-santos-silva-254212261">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-071a0d?style=for-the-badge&logo=linkedin&logoColor=00FF88">
 </a>
 
