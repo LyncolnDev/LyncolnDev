@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071a0d,50:0b4d2b,100:00ff88&text=LYNCOLN%20DOS%20SANTOS%20SILVA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20ADS%20Student%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071a0d,50:0b4d2b,100:00ff88&height=180&text=LYNCOLN%20DOS%20SANTOS%20SILVA&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+SYSTEM...;%3E+WELCOME+TO+LYNCOLNDEV...;%3E+SOFTWARE+DEVELOPER;%3E+PYTHON+%7C+JAVA+%7C+JAVASCRIPT;%3E+FASTAPI+%7C+REST+API+%7C+POSTGRESQL;%3E+SYSTEM+ONLINE+%E2%9C%93" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+SYSTEM...;%3E+WELCOME+TO+LYNCOLNDEV...;%3E+SOFTWARE+DEVELOPER;%3E+PYTHON+%7C+JAVA+%7C+JAVASCRIPT;%3E+FASTAPI+%7C+REST+API+%7C+POSTGRESQL;%3E+SYSTEM+ONLINE+%E2%9C%93"/>
 
 <br>
 
@@ -12,92 +12,27 @@
 
 ---
 
-<table>
-<tr>
+# 🧠 ABOUT ME
 
-<td width="28%" valign="top">
+> Olá! Eu sou **Lyncoln**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, programação e desenvolvimento de software.
 
-<div align="center">
-
-<img src="https://github.com/LyncolnDev.png" width="180" style="border-radius:50%;">
-
-<br><br>
-
-# LYNCOLN
-
-### Software Developer
-
-`@LyncolnDev`
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-00FF88?style=flat-square&logoColor=black"/>
-
-<br><br>
-
-📍 Brazil
-
-💻 Software Developer
-
-🎓 ADS Student
-
-🚀 Technology Enthusiast
-
-<br><br>
-
-<a href="https://github.com/LyncolnDev">
-<img src="https://img.shields.io/badge/GitHub-LyncolnDev-111111?style=flat-square&logo=github&logoColor=00FF88"/>
-</a>
-
-<br>
-
-<a href="mailto:contatolyncolndev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail&logoColor=00FF88"/>
-</a>
-
-<br>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=00FF88"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="72%" valign="top">
-
-# LYNCOLN DOS SANTOS SILVA
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF88&width=700&lines=Software+Developer;Python+%7C+Java+%7C+JavaScript;Backend+%7C+FastAPI+%7C+REST+API;PostgreSQL+%7C+SQL;Always+Learning+%26+Building..." />
-
-<br>
-
-> **Construindo soluções, aprendendo novas tecnologias e transformando ideias em código.**
-
-<br>
-
-## 🧠 ABOUT ME
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software.
-
-Meu foco atual está no desenvolvimento **Backend**, APIs, bancos de dados e construção de aplicações utilizando boas práticas de programação.
+Atualmente estou aprimorando minhas habilidades em **Python, Java, JavaScript, HTML, CSS, SQL, PostgreSQL, FastAPI e APIs REST**.
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                  LYNcoln AI CORE                     ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  SYSTEM STATUS     : ONLINE ✓                        ║
-║  DEVELOPER         : LYNcoln                         ║
-║  GITHUB            : @LyncolnDev                     ║
-║  EDUCATION         : ADS                              ║
-║  SPECIALIZATION    : SOFTWARE DEVELOPMENT             ║
-║                                                      ║
-║  CURRENT MODE      : LEARNING                        ║
-║  NEXT LEVEL        : BACKEND                         ║
-║                                                      ║
+╔══════════════════════════════════════════════════════════════╗
+║                    LYNcoln AI CORE                          ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  SYSTEM STATUS     : ONLINE ✓                                ║
+║  DEVELOPER         : LYNcoln                                 ║
+║  GITHUB            : @LyncolnDev                             ║
+║  EDUCATION         : ADS                                     ║
+║  SPECIALIZATION    : SOFTWARE DEVELOPMENT                    ║
+║                                                              ║
+║  CURRENT MODE      : LEARNING                                ║
+║  NEXT LEVEL        : BACKEND                                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ╚══════════════════════════════════════════════════════╝
 ⚡ TECH STACK
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,fastapi,postgresql,mysql,git,github,vscode,postman" /> </div> </td> </tr> </table>
