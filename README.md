@@ -70,25 +70,67 @@ Python • FastAPI • PostgreSQL
 
 <div align="center">
 
-<table>
-<tr>
-
-<td>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=LyncolnDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071a0d&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF">
-</td>
 
-<td>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyncolnDev&layout=compact&langs_count=8&hide_border=true&bg_color=071a0d&title_color=00FF88&text_color=FFFFFF">
-</td>
 
-</tr>
-</table>
-
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=LyncolnDev&theme=dark&hide_border=true&background=071a0d&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=FFFFFF">
 
+</div>
+
+---
+
+## 📈 ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LyncolnDev&bg_color=071a0d&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="100%">
+
+</div>
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LyncolnDev&theme=matrix&no-frame=true&no-bg=true&margin-w=5&column=7">
+
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/LyncolnDev">
+<img src="https://img.shields.io/badge/GitHub-LyncolnDev-071a0d?style=for-the-badge&logo=github&logoColor=00FF88">
+</a>
+
+<a href="mailto:contatolyncolndev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-071a0d?style=for-the-badge&logo=gmail&logoColor=00FF88">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-071a0d?style=for-the-badge&logo=linkedin&logoColor=00FF88">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:071a0d,50:0b4d2b,100:00ff88" width="100%">
+
+<br>
+
 LYNCOLNDEV // SYSTEM ONLINE
+
+<br><br>
 
 CODE • LEARN • BUILD • EVOLVE
 
