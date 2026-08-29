@@ -42,6 +42,7 @@ Projeto para prática de CRUD, banco de dados e lógica de programação.
 
 Python • FastAPI • PostgreSQL
 
+Projeto focado em desenvolvimento de APIs REST e integração com banco de dados.
 ### 💻 TERMINAL
 
 <pre>
