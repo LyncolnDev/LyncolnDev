@@ -88,8 +88,6 @@ Python • FastAPI • PostgreSQL
 
 <img src="https://streak-stats.demolab.com?user=LyncolnDev&theme=dark&hide_border=true&background=071a0d&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=FFFFFF">
 
-</div>>
-
 LYNCOLNDEV // SYSTEM ONLINE
 
 CODE • LEARN • BUILD • EVOLVE
