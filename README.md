@@ -42,50 +42,31 @@ Projeto para prática de CRUD, banco de dados e lógica de programação.
 
 Python • FastAPI • PostgreSQL
 
-Projeto focado em desenvolvimento de APIs REST e integração com banco de dados.
-## 🎯 CURRENT GOALS
-
-### 🛣️ DEVELOPMENT ROADMAP
-
-- [✓] HTML5
-- [✓] CSS3
-- [✓] Git / GitHub
-- [✓] Lógica de Programação
-- [✓] Python
-- [✓] Java
-- [✓] JavaScript
-- [>] PostgreSQL
-- [>] FastAPI
-- [>] REST APIs
-- [>] Backend Development
-- [>] Clean Code
-- [>] Software Architecture
-- [>] Testing & Building
-
----
-
 ### 💻 TERMINAL
 
 ```text
 ┌──[LyncolnDev@github]─[~/development]
-└─$ whoami
-Lyncoln
-
-└─$ role
-Software Developer
-
-└─$ education
-Análise e Desenvolvimento de Sistemas
-
-└─$ focus
-Backend Development
-
-└─$ technologies
-Python • FastAPI • REST API • PostgreSQL • Java • JavaScript • Git • GitHub
-
+│
+├─$ whoami
+│  Lyncoln
+│
+├─$ role
+│  Software Developer
+│
+├─$ education
+│  Análise e Desenvolvimento de Sistemas
+│
+├─$ focus
+│  Backend Development
+│
+├─$ technologies
+│  Python • FastAPI • REST API • PostgreSQL
+│  Java • JavaScript • Git • GitHub
+│
 └─$ status
-ONLINE ✓
-</div>
+   ONLINE ✓
+```
+
 📊 GITHUB STATS
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=LyncolnDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071a0d&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyncolnDev&layout=compact&langs_count=8&hide_border=true&bg_color=071a0d&title_color=00FF88&text_color=FFFFFF">
 
@@ -99,10 +80,10 @@ ONLINE ✓
 🐍 CONTRIBUTION SNAKE
 <div align="center"> <img src="https://raw.githubusercontent.com/LyncolnDev/LyncolnDev/output/github-contribution-grid-snake.svg" width="100%"> </div>
 🌐 CONNECT WITH ME
-<div align="center"> <a href="https://github.com/LyncolnDev"> <img src="https://img.shields.io/badge/GitHub-LyncolnDev-071a0d?style=for-the-badge&logo=github&logoColor=00FF88"> </a> <a href="mailto:contatolyncolndev@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-071a0d?style=for-the-badge&logo=gmail&logoColor=00FF88"> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-071a0d?style=for-the-badge&logo=linkedin&logoColor=00FF88"> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:071a0d,50:0b4d2b,100:00ff88" width="100%">
+<div align="center"> <a href="https://github.com/LyncolnDev"> <img src="https://img.shields.io/badge/GitHub-LyncolnDev-071a0d?style=for-the-badge&logo=github&logoColor=00FF88"> </a> <a href="mailto:contatolyncolndev@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-071a0d?style=for-the-badge&logo=gmail&logoColor=00FF88"> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-071a0d?style=for-the-badge&logo=linkedin&logoColor=00FF88"> </a> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:071a0d,50:0b4d2b,100:00ff88" width="100%">
+
 LYNCOLNDEV // SYSTEM ONLINE
 
 CODE • LEARN • BUILD • EVOLVE
 
-</div>
+</div> ```
