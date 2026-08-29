@@ -43,64 +43,47 @@ Projeto para prática de CRUD, banco de dados e lógica de programação.
 Python • FastAPI • PostgreSQL
 
 Projeto focado em desenvolvimento de APIs REST e integração com banco de dados.
+## 🎯 CURRENT GOALS
 
-🎯 CURRENT GOALS
-<div align="center">
-┌──────────────────────────────────────────────┐
-│           DEVELOPMENT ROADMAP               │
-├──────────────────────────────────────────────┤
-│                                              │
-│  [✓] HTML5                                  │
-│  [✓] CSS3                                   │
-│  [✓] Git / GitHub                           │
-│  [✓] Lógica de Programação                  │
-│  [✓] Python                                 │
-│  [✓] Java                                   │
-│  [✓] JavaScript                             │
-│                                              │
-│  [>] PostgreSQL                              │
-│  [>] FastAPI                                 │
-│  [>] REST APIs                               │
-│  [>] Backend Development                     │
-│  [>] Clean Code                              │
-│  [>] Software Architecture                   │
-│                                              │
-│  STATUS: LEARNING & BUILDING                │
-│                                              │
-└──────────────────────────────────────────────┘
-</div>
-💻 TERMINAL
-<div align="center">
+### 🛣️ DEVELOPMENT ROADMAP
+
+- [✓] HTML5
+- [✓] CSS3
+- [✓] Git / GitHub
+- [✓] Lógica de Programação
+- [✓] Python
+- [✓] Java
+- [✓] JavaScript
+- [>] PostgreSQL
+- [>] FastAPI
+- [>] REST APIs
+- [>] Backend Development
+- [>] Clean Code
+- [>] Software Architecture
+- [>] Testing & Building
+
+---
+
+### 💻 TERMINAL
+
+```text
 ┌──[LyncolnDev@github]─[~/development]
 └─$ whoami
-
 Lyncoln
 
 └─$ role
-
 Software Developer
 
 └─$ education
-
 Análise e Desenvolvimento de Sistemas
 
 └─$ focus
-
 Backend Development
 
 └─$ technologies
-
-Python
-FastAPI
-REST API
-PostgreSQL
-Java
-JavaScript
-Git
-GitHub
+Python • FastAPI • REST API • PostgreSQL • Java • JavaScript • Git • GitHub
 
 └─$ status
-
 ONLINE ✓
 </div>
 📊 GITHUB STATS
